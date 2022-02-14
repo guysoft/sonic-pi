@@ -1,3 +1,4 @@
+name: Build arm64
 on: [push]
 workflow_dispatch:
 
